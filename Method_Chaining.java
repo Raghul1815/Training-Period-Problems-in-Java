@@ -1,4 +1,3 @@
-package DailyPractive;
 class Tailerss{
 	String name;
 	int size;
