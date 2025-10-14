@@ -30,5 +30,6 @@ public class Constructor {
 		sc.Display();
 		Student scs = new Student("Raghul",94,100.0f);
 		scs.Display();
+		
 	}
 }
