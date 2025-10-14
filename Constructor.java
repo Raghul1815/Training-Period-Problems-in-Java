@@ -1,4 +1,4 @@
-package oop_practice;
+
 class Student{
 	String name;
 	int rollno;
