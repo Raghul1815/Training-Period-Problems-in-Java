@@ -1,4 +1,3 @@
-package oop_practice;
 class Bankaccountt{
 	private String accountholder;
 	private int balance;
