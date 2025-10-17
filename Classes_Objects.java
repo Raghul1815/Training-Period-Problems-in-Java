@@ -1,4 +1,4 @@
-package oop_practice;
+
 class Car{
 	String brand;
 	String model;
