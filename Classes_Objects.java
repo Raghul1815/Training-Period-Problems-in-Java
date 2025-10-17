@@ -24,7 +24,5 @@ public class Classes_Objects {
       BMW.model = "2007 model";
       BMW.price = 123456;
       BMW.showDetails();
-	
-
 }
 }
