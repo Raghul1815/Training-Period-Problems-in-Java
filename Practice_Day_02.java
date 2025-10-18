@@ -1,4 +1,4 @@
-package DailyPractive;
+
 class Tailor{
 	String name;
 	int no;
