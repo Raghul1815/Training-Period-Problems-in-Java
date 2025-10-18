@@ -1,4 +1,3 @@
-
 class Tailor{
 	String name;
 	int no;
