@@ -1,4 +1,4 @@
-package oop_practice;
+
 interface Mobiless{
 	void camera();
 	void music();
