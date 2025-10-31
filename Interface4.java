@@ -1,3 +1,5 @@
+
+
 interface Mobiless{
 	void camera();
 	void music();
