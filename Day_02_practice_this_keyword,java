@@ -1,4 +1,6 @@
-package DailyPractive;
+
+
+
 class Tailers{
 	String name;
 	int size;
