@@ -1,6 +1,5 @@
 
 
-
 class Tailers{
 	String name;
 	int size;
