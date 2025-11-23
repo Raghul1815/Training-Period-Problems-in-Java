@@ -25,5 +25,4 @@ public class Abstraction5 {
 		cc.start();
 
 	}
-
 }
