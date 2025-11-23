@@ -1,6 +1,5 @@
 abstract class Vehiclee{
 String brand;
-	
 	Vehiclee(String b){
 		brand = b;
 		System.out.println("Vehicle Constructor is called");
