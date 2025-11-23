@@ -6,7 +6,6 @@ String brand;
 	}
 	abstract void start();
 }
-
 class Cares extends Vehiclee{
 	int year;
 	
