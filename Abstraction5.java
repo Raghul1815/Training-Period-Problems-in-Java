@@ -6,9 +6,9 @@ String brand;
 	}
 	abstract void start();
 }
+
 class Cares extends Vehiclee{
-	int year;
-	
+	int year;	
 	Cares(String b,int y){
 		super(b);
 		year = y;
@@ -23,6 +23,5 @@ public class Abstraction5 {
 	public static void main(String[] args) {
 		Cares cc = new Cares("BMW",1997);
 		cc.start();
-
 	}
 }
