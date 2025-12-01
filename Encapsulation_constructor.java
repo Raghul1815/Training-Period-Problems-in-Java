@@ -1,5 +1,4 @@
 
-
 class Bankaccount{
 	private String accountholder;
 	private int balance;
