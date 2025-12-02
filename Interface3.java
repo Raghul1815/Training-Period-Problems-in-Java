@@ -1,4 +1,3 @@
-
 interface Mobile{
 	void phone();
 }
